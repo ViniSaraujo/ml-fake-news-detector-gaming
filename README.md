@@ -1,6 +1,9 @@
 # Fui Trollado?
 
+Modelo de Machine Learning (Regressão Logística e TF-IDF) para análise e classificação de credibilidade de notícias do mercado de games.
+
 Site do Data Hunters para analisar padrões de credibilidade em textos. Tem o cenário gamer, a equipe e quatro versões da LR para comparar a mesma mensagem.
+Site: https://fuitrollado-caa33193817f.herokuapp.com/
 
 O modelo não verifica fatos. Uma frase inventada com aparência de anúncio oficial pode receber uma probabilidade alta para a classe confiável. O resultado mostra semelhança com os padrões do corpus, não uma confirmação de verdade.
 
